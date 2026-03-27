@@ -1,68 +1,57 @@
 #EXTM3U x-tvg-url="https://epg.tvnow.com.br/epg.xml"
 
+# --- CHAMPIONS & FILMES (MAX) ---
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX", Max 1
+https://1.cdn1embed.site/jOt1OGMmmaxxWkI9X7H6aMuFbh7x41Ztpd/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX", Max 2
+https://1.cdn1embed.site/wmnnu84hbf7uy3gfbunbfqwfrwegr53/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX", Max 3
+https://1.cdn2embed.site/ds128w34fg18574w1gw42fwshn/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX", Max 4
+https://1.cdn1embed.site/rew21v3891gfre658h47g11q6r1gha/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX", Max 5
+https://1.cdn2embed.site/index93hgbfq43onmv34gh23onmc934/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="MAX", Max 6
+https://1.cdn1embed.site/wre8f5213489ef1gve3h135589g34/index.m3u8
 
-# --- FUTEBOL (PREMIERE) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere Clubes FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1898
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere Clubes 4K
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1277
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere 2 FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1892
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere 3 FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1893
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere 4 FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1894
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere 5 FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1895
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere 6 FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1896
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere 7 FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1897
-
-# --- ESPORTES PREMIUM ---
+# --- ESPORTES (ESPN) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="ESPORTES", ESPN 1
-https://cdn1embed.site/fygw2wMqspnZcUDIh7yfJs1ON43xKmT/index.m3u8
+https://1.cdn1embed.site/fygw2wMqspnZcUDIh7yfJs1ON43xKmT/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="ESPORTES", ESPN 2
-https://cdn1embed.site/QoXsf2o3spn2gyrDO1xkxwnQrS7/index.m3u8
+https://1.cdn2embed.site/QoXsf2o3spn2gyrDO1xkxwnQrS7/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="ESPORTES", ESPN 3
+https://1.cdn1embed.site/OkIUpkDyr7OSspn3JoRu1XXdo0c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="ESPORTES", ESPN 4
+https://1.cdn2embed.site/ren68K4TunPspn4Fz46PDjqipVJIqVL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="ESPORTES", ESPN 5
+https://1.cdn1embed.site/zxoiGFfWd3hjspn5OkYRBMeyyMDHqJ38/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="ESPORTES", ESPN 6
+https://1.cdn2embed.site/R4IWrXPvspn6hsBkDa9U4UqGWl/index.m3u8
+
+# --- ESPORTES (PREMIERE) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere Clubes
+https://1.cdn2embed.site/QBwBAD3UprmrcldRPPgdzUvZ3gp/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere 2
+https://1.cdn1embed.site/ICiBlrDp3prmr2WeCZ32JgdPI1af7/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere 3
+https://1.cdn2embed.site/AFEn3z5dkprmr3yayq7YYDsBS9UYJ/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere 4
+https://1.cdn1embed.site/msn9dLVIdprmr4VuddLEG62Hkd9Gf2leM/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Premiere_FC_logo.png" group-title="PREMIERE", Premiere 5
+https://1.cdn2embed.site/zh84KpLMcprmr5NfAQLKHu7qnQT/index.m3u8
+
+# --- OUTROS ESPORTES & CANAIS ---
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/sportv-logo-1.png" group-title="ESPORTES", SporTV 1
-https://cdn1embed.site/OB1rcavXsprtviOqkVCJTBJahe/index.m3u8
+https://1.cdn2embed.site/OB1rcavXsprtviOqkVCJTBJahe/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/sportv-2-logo.png" group-title="ESPORTES", SporTV 2
-https://cdn1embed.site/c1xLJjBictx5sprtv2gY3c5wnRpQ/index.m3u8
+https://1.cdn1embed.site/c1xLJjBictx5sprtv2gY3c5wnRpQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/sportv-3-logo.png" group-title="ESPORTES", SporTV 3
-https://cdn1embed.site/Z3ANVj77p3kZsprtv3l4AblV7vY7AZQ/index.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/DAZN.png" group-title="ESPORTES", DAZN
-https://cdn1embed.site/RV5lNKtzJ1adzntsnBYLMPuDCCRnGEY5/index.m3u8
-#EXTINF:-1 tvg-logo="https://publish.realmadrid.com/img/real-madrid-logo.png" group-title="ESPORTES", Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1-f9D_D2Sj8kXoYnI6f_n685w_tSj214pUo37R1XbNn_E1o_9M00_200" group-title="ESPORTES", Cazé TV
-https://cdn1embed.site/Be8Q6vNuQ2cztvhU5tGtQAuzSsJim/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Nosso_Futebol_logo.png" group-title="ESPORTES", Nosso Futebol
-https://1.cdn1embed.site/TtzQPxC5HnssftbChpoevbLJoLoaeTOdoe/index.m3u8
+https://1.cdn2embed.site/Z3ANVj77p3kZsprtv3l4AblV7vY7AZQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TNT_Logo.svg/1024px-TNT_Logo.svg.png" group-title="ESPORTES", TNT
-https://1.cdn1embed.site/NOLJTuyMHstntDGMBgYSh2PP4XJU/index.m3u8
-
-# --- FILMES E STREAMING ---
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="STREAMING", Max 1
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/77858
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg" group-title="STREAMING", HBO Max 1 (ALT)
-https://cdn1embed.site/jOt1OGMmmaxxWkI9X7H6aMuFbh7x41Ztpd/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="STREAMING", Prime Video FHD 1
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/898825
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="STREAMING", Paramount+ 1 FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1280675
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="STREAMING", Disney+ 1
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/973574
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Space_logo.svg/1024px-Space_logo.svg.png" group-title="STREAMING", Space
-https://1.cdn2embed.site/tDP9bdE2zBRgspcFT6Ce5fuMje/index.m3u8
-
-# --- GLOBO REGIONAL ---
-#EXTINF:-1, Globo SP FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/62169
-#EXTINF:-1, Globo RJ FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1943
-#EXTINF:-1, Globo MG FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1981
-#EXTINF:-1, Globo TV Bahia FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1986
-#EXTINF:-1, Globo Brasília FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1979
+https://1.cdn2embed.site/NOLJTuyMHstntDGMBgYSh2PP4XJU/index.m3u8
+#EXTINF:-1 group-title="ESPORTES", X-Sports
+https://1.cdn1embed.site/A4OKmTSyFzpxsprtsjPSa5W3X4g/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/05/globo-logo.png" group-title="ABERTOS", Globo SP
+https://1.cdn1embed.site/obu7g1TPvYglbspjics61ES1iWT/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/03/multishow-logo.png" group-title="ABERTOS", Multishow
+https://1.cdn1embed.site/f6suVAlmimltshwYI4xHG6r1kq608E9/index.m3u8
