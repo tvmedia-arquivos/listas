@@ -55,3 +55,21 @@ http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1981
 http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1986
 #EXTINF:-1, Globo Brasília FHD
 http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1979
+
+#EXTINF:-1 tvg-logo="https://publish.realmadrid.com/img/real-madrid-logo.png" group-title="Esportes",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Space_logo.svg/1024px-Space_logo.svg.png" group-title="Filmes e Series",Space
+https://1.cdn2embed.site/tDP9bdE2zBRgspcFT6Ce5fuMje/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TNT_Logo.svg/1024px-TNT_Logo.svg.png" group-title="Esportes/Entretenimento",TNT
+https://1.cdn1embed.site/NOLJTuyMHstntDGMBgYSh2PP4XJU/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1024px-Amazon_Prime_Video_logo.svg.png" group-title="Streaming",Amazon Prime Video
+https://1.cdn2embed.site/vr3e9XrwPGzmznprmR1Iv8bh4qlL9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fA7a5E98t8_8A9Uj8K1Yv0-J_L9_z3K1v-Vn6C0p3a7a-6fA" group-title="Esportes",Cazé TV
+https://1.cdn1embed.site/Be8Q6vNuQ2cztvhU5tGtQAuzSsJim/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Nosso_Futebol_logo.png" group-title="Esportes",Nosso Futebol
+https://1.cdn1embed.site/TtzQPxC5HnssftbChpoevbLJoLoaeTOdoe/index.m3u8
